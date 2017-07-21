@@ -3,7 +3,7 @@
 	"description" : "CakePHP Plugin: Tracks Usage stats.",
 	"type" : "cakephp-plugin",
 	"keywords" : ["cakephp", "plugin", "usage"],
-	"license": "proprietary",
+	"license": "mit",
 	"authors": [
 		{
 			"name": "Brian French",
