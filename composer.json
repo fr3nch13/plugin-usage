@@ -1,5 +1,5 @@
 {
-	"name" : "nih-fo/plugin-usage",
+	"name" : "fr3nch13/plugin-usage",
 	"description" : "CakePHP Plugin: Tracks Usage stats.",
 	"type" : "cakephp-plugin",
 	"keywords" : ["cakephp", "plugin", "usage"],
@@ -15,7 +15,7 @@
 		} 
 	],
 	"require": {
-		"nih-fo/plugin-utilities": "1.*",
-		"nih-fo/plugin-gchart": "1.*"
+		"fr3nch13/plugin-utilities": "1.*",
+		"fr3nch13/plugin-gchart": "1.*"
 	}
 }
